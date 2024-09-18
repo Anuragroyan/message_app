@@ -1,16 +1,14 @@
 # message_app
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](Screenshot_20240918-043737.jpg) 
+![alt text](Screenshot_20240918-043751.jpg) 
+![alt text](Screenshot_20240918-043756.jpg) 
+![alt text](Screenshot_20240918-043800.jpg) 
+![alt text](Screenshot_20240918-151653.jpg) 
+![alt text](Screenshot_20240918-162828.jpg) 
+![alt text](Screenshot_20240918-162833.jpg) 
+![alt text](Screenshot_20240918-162837.jpg) 
+![alt text](Screenshot_20240918-163810.jpg) 
+![alt text](Screenshot_20240918-170013.jpg) 
+![alt text](Screenshot_20240918-170020.jpg)
